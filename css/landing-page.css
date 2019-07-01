@@ -95,7 +95,7 @@ header.masthead h1 {
   font-size: 5rem;
 }
 
-.timeline {
+.timeline, .equal {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }

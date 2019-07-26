@@ -58,6 +58,10 @@ header.masthead h1 {
   margin-top: 2rem;
 }
 
+.book-description{
+  font-size: 110%;
+}
+
 .chapter-progress{
   display: inline-block;
   font-size: 80%;
